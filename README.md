@@ -18,4 +18,18 @@ $ ionic start myApp
 ```
 
 More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/docs/v2/getting-started/) page.
+
 # ionic-demo
+please use node v4.4.6
+
+```bash
+$ nvm use 4.4.6
+```
+
+## Start
+
+Run
+
+```bash
+$ ionic serve
+```
